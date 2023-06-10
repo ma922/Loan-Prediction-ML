@@ -1,6 +1,8 @@
 # Loan-Prediction-ML
 
-Binary classification task (2022)
+Project belongs to year 2022.
+
+Binary classification task
 
 Given data of person, predict if they are eligible for loan?
 
